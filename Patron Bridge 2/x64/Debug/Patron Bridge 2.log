@@ -1,0 +1,8 @@
+﻿  ContenedorProductos.cpp
+C:\Users\DELL\Documents\Progra-2\Tercer Examen\Patron Bridge 2\ContenedorProductos.cpp(143,21): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+Implementacion1.obj : error LNK2005: ya se definió "void * console" (?console@@3PEAXEA) en ContenedorProductos.obj
+Implementacion2.obj : error LNK2005: ya se definió "void * console" (?console@@3PEAXEA) en ContenedorProductos.obj
+Implementacion3.obj : error LNK2005: ya se definió "void * console" (?console@@3PEAXEA) en ContenedorProductos.obj
+Main.obj : error LNK2005: ya se definió "void * console" (?console@@3PEAXEA) en ContenedorProductos.obj
+Manejador.obj : error LNK2005: ya se definió "void * console" (?console@@3PEAXEA) en ContenedorProductos.obj
+C:\Users\DELL\Documents\Progra-2\Tercer Examen\Patron Bridge 2\x64\Debug\Patron Bridge 2.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

@@ -1,0 +1,2 @@
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\SobreDeOperadores\x64\Debug\SobrecargaDeOperadores.exe
+C:\Users\DELL\Documents\Progra-2\Segundo Examen\Sobrecarga3\x64\Debug\SobrecargaDeOperadores.exe
